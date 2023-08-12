@@ -46,7 +46,7 @@
 
                 <input type="submit" name="submit" value="login" class="btn btn-primary"><br><br>
                 <div class="text-center">
-                    <h5>Already have account?<a href="register.php">sign in</a></h5>
+                    <h5>Don't have account <a href="register.php">register</a></h5>
                 </div>
                 <!-- <button name="submit" class="btn btn-primary" >login</button> -->
 

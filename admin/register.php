@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="../css/admin.css">
     </head>
     <body   >
-        <div class="register ">
+        <div class="login">
             <h1 class="text-center">register</h1>
             <br><br>
             <?php

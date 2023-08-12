@@ -125,3 +125,10 @@ table tr td{
     margin: 10% auto;
     padding: 2%;
 }
+/* CSS for register */
+.register{
+    border: 1px solid grey;
+    width: 20%;
+    margin: 10% auto;
+    padding: 2%;
+}
